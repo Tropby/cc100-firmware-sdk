@@ -6,5 +6,6 @@
 #tag:ptxdist --start-number 100
 0100-make-fakeroot-relocatable.patch
 0101-fakeroot-disable-build-of-doc-and-test.patch
+#tag:ptxdist --start-number 200
 0200-fakeroot-STAT_VER.patch
 # 2755cb93836d1c1bfe9ac6e2a82e4ad6  - git-ptx-patches magic
